@@ -1,0 +1,373 @@
+#mainPicture{
+    position: absolute;
+    left: 10%;
+    height: 300px; width: 1200px;
+    background-image: url(../pictures/MainPicture2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1200px 300px;
+}
+#mainPicture:hover{
+    cursor: pointer;
+}
+#news{
+    position: absolute;
+    left: 10%; top: 370px;
+    height: 300px; width: 800px;
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+}
+#newsnav{
+    position: absolute;
+    left: 10%;top: 320px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#newsmore{
+    position: absolute;
+    top: 320px;right: 550px;
+    height: 50px;width: 50px;
+    font-size: 12px;
+    line-height: 50px;
+}
+#newsCarousel{
+    position: absolute;
+    left: 0;top: 0;
+    height: 300px;width: 380px;
+}
+#newsVal{
+    position: absolute;
+    right: 0;top: 0;
+    height: 300px;width: 430px;
+}
+#announcementnav{
+    position: absolute;
+    right: 165px;top: 320px;
+    height: 50px;width: 350px;
+    background-color: rgb(156, 24, 24);
+    background-image: url(../pictures/announcement.png);
+    background-repeat: no-repeat;
+    background-size: 90px 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+#announcementmore{
+    position: absolute;
+    top: 320px;right: 160px;
+    height: 50px;width: 50px;
+    font-size: 12px;
+    line-height: 50px;    
+} 
+.kongge{
+    position: absolute;
+    left: 24%;
+}
+.kongge:hover{
+    text-decoration: underline;
+}
+#announcement{
+    position: absolute;
+    right: 165px;top: 370px;
+    height: 280px;width: 350px;
+    background-color: rgba(241, 238, 238, 0.863);
+    padding-top: 20px;
+    padding-left: 20px;
+}  
+.announcementlink1{
+    line-height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
+}
+.announcementlink1:hover{
+    color: red;
+}
+#partynav{
+    position: absolute;
+    left: 10%;top: 660px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#partymore{
+    position: absolute;
+    top: 660px;left: 570px;
+    height: 50px;width: 50px;
+    font-size: 12px;
+    line-height: 50px;
+}
+#party{
+    position: absolute;
+    left: 10%; top: 710px;
+    height: 260px;width: 450px;
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+}
+#teachnav{
+    position: absolute;
+    left: 41%;top: 660px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#teachmore{
+    position: absolute;
+    top: 660px;left: 1040px;
+    height: 50px;width: 50px;
+    font-size: 12px;
+    line-height: 50px;
+}
+#teach{
+    position: absolute;
+    left: 41%; top: 710px;
+    height: 260px;width: 450px;
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+}
+#headmasternav{
+    position: absolute;
+    right: 165px;top: 660px;
+    height: 50px;width: 260px;
+    background-color: rgb(156, 24, 24);
+    background-image: url(../pictures/headmaster.png);
+    background-repeat: no-repeat;
+    background-size: 90px 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+.kongge1{
+    position: absolute;
+    left: 48%;
+}
+.kongge1:hover{
+    text-decoration: underline;
+}
+#headmaster{
+    position: absolute;
+    right: 165px;top: 710px;
+    height: 260px;width: 260px;
+    background-image: url(../pictures/headmasterbgi.jpg);
+    background-repeat: no-repeat;
+    background-size: contain; 
+    padding-top: 20px;padding-left: 20px;
+
+}
+#headmasterphoto{
+    float: left;
+    height: 150px;width: 100px;
+    background-image: url(../pictures/headmasterphoto.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: 10px;
+}
+.headmasterin{
+    text-indent: 0.5em;letter-spacing: 0.05em;
+    line-height: 25px;
+    
+}
+#scrollnav{
+    position: absolute;
+    left: 10%;top: 1000px;
+    height: 105px;width: 1200px;
+    background-color: skyblue;
+    background-image: url(../pictures/hengfu.gif);
+    background-repeat: no-repeat;
+    background-size: 1200px 105px;
+}
+#teachChangingnav{
+    position: absolute;
+    left: 10%;top: 1125px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#teachChangingmore{
+    position: absolute;
+    left: 570px;top: 1125px;
+    height: 50px;  width: 50px;
+    line-height: 50px;
+    font-size: 12px;
+}
+
+#teachChanging{
+    position: absolute;
+    left: 10%; top: 1175px;
+    height: 260px;width: 450px;
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+}
+#moralitynav{
+    position: absolute;
+    left: 41%;top: 1125px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#moralitymore{
+    position: absolute;
+    left: 1040px;top: 1125px;
+    height: 50px;  width: 50px;
+    line-height: 50px;
+    font-size: 12px;
+}
+#morality{
+    position: absolute;
+    left: 41%; top: 1175px;
+    height: 260px;width: 450px;
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+}
+#studentsnav{
+    position: absolute;
+    right: 165px;top: 1125px;
+    height: 50px;width: 260px;
+    background-color: rgb(156, 24, 24);
+    background-image: url(../pictures/students.png);
+    background-repeat: no-repeat;
+    background-size: 80px 50px;
+    line-height: 50px;
+    font-size: 20px;
+}
+.kongge2{
+    position: absolute;
+    left: 30%;
+}
+.kongge2:hover{
+    text-decoration: underline;
+}
+#students{
+    position: absolute;
+    right: 165px;top: 1175px;
+    height: 260px;width: 260px;
+    background-image: url(../pictures/studentbgi.jpg);
+    background-repeat: no-repeat;
+    background-size: 260px 260px;
+}
+#studentphoto1{
+    position: absolute;
+    left: 10px;top: 20px;
+    height: 130px; width: 80px;
+    border-radius: 10%;
+    background-color: rgba(132, 212, 243,0.7);
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, transform 2s;
+}
+#studentphoto1:hover{
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+#studentphoto2{
+    position: absolute;
+    left: 100px;top: 150px;
+    height: 100px; width: 150px;
+    border-radius: 10%;
+    background-color: rgba(110, 250, 110, 0.7);
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, transform 2s;
+}
+#studentphoto2:hover{
+    cursor: pointer;
+    width: 150px;
+    height: 100px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+#studentphoto3{
+    position: absolute;
+    right: 20px;top: 30px;
+    height: 100px; width: 80px;
+    border-radius: 10%;
+    background-color: rgba(247, 40, 40, 0.7);
+    background-size: contain;
+    background-repeat: no-repeat;
+    -webkit-transition: width 2s, height 2s, -webkit-transform 2s;
+    transition: width 2s, height 2s, transform 2s;
+}
+#studentphoto3:hover{
+    cursor: pointer;
+    width: 200px;
+    height: 200px;
+    -webkit-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+#schoolscenerynav{
+    position: absolute;
+    left: 10%;top: 1480px;
+    height: 50px;  width: 120px;
+    line-height: 50px;
+    background-color: rgb(156, 24, 24);
+    font-size: 20px;
+    text-align: center;
+}
+#schoolscenery{
+    position: absolute;
+    left: 10%;top: 1530px;
+    height: 180px;width: 1200px;
+    background-color: rgb(220, 236, 241);
+    border: 1px solid gray;
+    border-left: none;border-right: none; border-bottom: none;
+    overflow: hidden;
+
+}
+.img{
+    position: relative;
+    left: 0px;top: 20px;
+    float: left;
+    width: 190px;height: 130px;
+    margin-right: 10px;
+}
+.img:hover{
+    cursor: pointer;
+}
+#fuzhu{
+    width: 999999px;
+}
+.photo1{
+    background-image: url(../pictures/photo_3.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+.photo2{
+    background-image: url(../pictures/photo_7.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+.photo3{
+    background-image: url(../pictures/photo_11.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+.photo4{
+    background-image: url(../pictures/photo_12.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+.photo5{
+    background-image: url(../pictures/photo_13.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+.photo6{
+    background-image: url(../pictures/photo_2.jpg);
+    background-repeat: no-repeat;
+    background-size: 190px 130px;
+}
+

@@ -1,0 +1,80 @@
+#somelinks{
+    position: absolute;
+    left: 10%;top: 0;
+    width: 1200px; height: 55px;
+    background-color: rgb(240, 240, 240);
+}
+#linkPicture{
+    position: absolute;
+    left: 0;top: 0;
+    width: 55px;height: 55px;
+    background-image: url(../pictures/youqing.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.link{
+    position: absolute;
+    left: 5%;
+    line-height: 55px;
+    font-size: 18px;
+    color: black;
+}
+.link:hover{
+    color: red;
+}
+.formStyle{
+    position: absolute;
+    left:200px;
+    line-height: 55px;
+    font-size: 14px;
+
+}
+.formStyle2{
+    position: absolute;
+    left: 450px;
+    line-height: 55px;
+    font-size: 14px;
+}
+.formStyle3{
+    position: absolute;
+    left: 700px;;
+    line-height: 55px;
+    font-size: 14px;
+}
+.formStyle4{
+    position: absolute;
+    left: 950px;;
+    line-height: 55px;
+    font-size: 14px;
+}
+#passway{
+    position: absolute;
+    left: 0;top: 80px;
+    width: 100%; height: 140px;
+    background-color: rgb(226, 224, 224);
+}
+.passwayStyle{
+    position: absolute;
+    left: 12%;top: 18px;
+    font-size: 20px;
+    color: rgb(85, 11, 11);
+}
+#passwayLink{
+    position: absolute;
+    left: 14%;top: 70px;
+    height: 30px;width: 600px;
+    color: black;
+}
+#else{
+    position: absolute;
+    top: 220px;left: 0;
+    width: 100%;height: 200px;
+    background-color: rgb(102, 15, 15);
+}
+#adress{
+    position: absolute;
+    top: 80px;left: 40%;
+    width: 800px;height: 80px;
+    font-size: 12px;
+}
+
